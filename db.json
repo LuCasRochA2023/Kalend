@@ -1,0 +1,25 @@
+{
+    "eventos":[
+        {
+            "descricao": "Estudar React",
+            "inicio":"2022-01-15T09:00",
+            "fim":"2022-01-15T13:00",
+            "completo": false,
+            "id": 1642342747
+        },
+        {
+            "descricao": "Estudar Medicina",
+            "inicio": "2021-10-15T08:00",
+            "fim": "2022-12-15T00:00",
+            "completo": false,
+            "id": 1642340742
+        },
+        {
+            "descricao": "Estudar Bomba",
+            "inicio": "2020-11-12T08:00",
+            "fim": "2022-12-15T00:00",
+            "completo": false,
+            "id": 1642344749
+        }
+    ]
+}
